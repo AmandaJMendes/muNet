@@ -11,5 +11,6 @@ Next steps:
 * Clone optimizer state
 * Insert layers
 * Remove layers
+* Reorganize code
 * Test on different problems
 
