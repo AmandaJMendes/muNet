@@ -8,8 +8,8 @@ https://arxiv.org/abs/2205.12755
 IN PROGRESS...
 
 Next steps:
--Clone optimizer state
-*Insert layers
-*Remove layers
-+Test on different problems
+* Clone optimizer state
+* Insert layers
+* Remove layers
+* Test on different problems
 
